@@ -1,0 +1,5 @@
+dependencies:
+  - name: kube-state-metrics-mk
+    version: ~0.11.0
+    repository: http://127.0.0.1:8879/charts
+    condition: kubeStateMetrics.enabled
