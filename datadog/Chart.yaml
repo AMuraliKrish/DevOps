@@ -1,4 +1,4 @@
-name: datadog
+name: datadogmurali
 version: 1.16.0
 appVersion: 6.6.0
 description: DataDog Agent
@@ -12,11 +12,5 @@ sources:
 - https://app.datadoghq.com/account/settings#agent/kubernetes
 - https://github.com/DataDog/datadog-agent
 maintainers:
-- name: hkaj
-  email: haissam@datadoghq.com
-- name: irabinovitch
-  email: ilan@datadoghq.com
-- name: xvello
-  email: xavier.vello@datadoghq.com
-- name: charlyf
-  email: charly@datadoghq.com
+- name: murali
+  email: krishnaakvm@gmail.com
