@@ -129,6 +129,8 @@ downloadFile() {
   fi
 }
 
+
+
 # installFile verifies the SHA256 for the file, then unpacks and
 # installs it.
 installFile() {
@@ -200,6 +202,8 @@ cleanup() {
 }
 
 # Execution
+
+# Vedsasri says Hi!
 
 #Stop execution on any error
 trap "fail_trap" EXIT
